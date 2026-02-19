@@ -1,3 +1,5 @@
+This repository has migrated to https://codeberg.org/OperatorFoundation/BigNumber.git
+
 BigNumber
 =========
 
