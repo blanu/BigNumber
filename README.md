@@ -1,5 +1,3 @@
-This repository has moved to https://codeberg.org/blanu/BigNumber
-
 This repository has migrated to https://codeberg.org/OperatorFoundation/BigNumber.git
 
 
